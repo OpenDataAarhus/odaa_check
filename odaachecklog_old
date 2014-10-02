@@ -1,0 +1,934 @@
+
+
+ -- Start cpr check2014-05-26 10:13:12
+--------------------------------------------------------------------------------------------------------
+
+
+Filer to check : 289
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/persisted_state.json size: 1
+*********** ######################## ***************
+ done handling no: 1 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/persisted_state.json 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:39:23.857Z/sejrssedleremner.ods size: 1
+*********** ######################## ***************
+ done handling no: 2 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:39:23.857Z/sejrssedleremner.ods 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:37:42.662Z/aarhus-adr.xml size: 1
+*********** ######################## ***************
+ done handling no: 3 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:37:42.662Z/aarhus-adr.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T13:25:15.973Z/vilkaar-for-brug-af-3d-terraen-bymodel.pdf size: 1
+*********** ######################## ***************
+ done handling no: 4 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T13:25:15.973Z/vilkaar-for-brug-af-3d-terraen-bymodel.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T11:19:05.821Z/grav-ver-1-5-stripped.mdb size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T11:19:05.821Z/grav-ver-1-5-stripped.mdb kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T09:37:08.822Z/licens-balpladser-i-aarhus.docx size: 1
+*********** ######################## ***************
+ done handling no: 6 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T09:37:08.822Z/licens-balpladser-i-aarhus.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:55:32.024Z/baalplads-wgs84-2013-2-5-10-43.kml size: 1
+*********** ######################## ***************
+ done handling no: 7 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:55:32.024Z/baalplads-wgs84-2013-2-5-10-43.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:57:20.339Z/beholdning-beskrivelse.txt size: 1
+*********** ######################## ***************
+ done handling no: 8 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:57:20.339Z/beholdning-beskrivelse.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:28:51.645Z/afgivne-stemmer.xls size: 1
+*********** ######################## ***************
+ done handling no: 9 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:28:51.645Z/afgivne-stemmer.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:16:21.949Z/alder-kon.xls size: 1
+*********** ######################## ***************
+ done handling no: 10 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:16:21.949Z/alder-kon.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:22:13.426Z/fodested-og-ledighed.xls size: 1
+*********** ######################## ***************
+ done handling no: 11 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:22:13.426Z/fodested-og-ledighed.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:39:33.562Z/skove-mindre-wgs84-2013-2-5-11-20.kml size: 1
+*********** ######################## ***************
+ done handling no: 12 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:39:33.562Z/skove-mindre-wgs84-2013-2-5-11-20.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:32:44.867Z/beskrivelse-vejnavne-og-vejkoder.pdf size: 1
+*********** ######################## ***************
+ done handling no: 13 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:32:44.867Z/beskrivelse-vejnavne-og-vejkoder.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T11:26:09.573Z/transaktion-beskrivelse.txt size: 1
+*********** ######################## ***************
+ done handling no: 14 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T11:26:09.573Z/transaktion-beskrivelse.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:37:45.921Z/sejrssedleremner.csv size: 1
+*********** ######################## ***************
+ done handling no: 15 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:37:45.921Z/sejrssedleremner.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:52.233Z/partiernes-stemmeandele-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 16 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:52.233Z/partiernes-stemmeandele-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:31:57.610Z/jy63200v.xml size: 1
+*********** ######################## ***************
+ done handling no: 17 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:31:57.610Z/jy63200v.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:37:25.443Z/partiernes-tilslutning-1993-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 18 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:37:25.443Z/partiernes-tilslutning-1993-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:16:30.143Z/vilkaar-for-brug-af-cvr-produktionsenheder.pdf size: 1
+*********** ######################## ***************
+ done handling no: 19 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:16:30.143Z/vilkaar-for-brug-af-cvr-produktionsenheder.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:51:12.621Z/buildings-2006.dwg size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:51:12.621Z/buildings-2006.dwg kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:36:07.029Z/sejrssedleremner.csv size: 1
+*********** ######################## ***************
+ done handling no: 21 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:36:07.029Z/sejrssedleremner.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:26:12.364Z/fodested-kon.xls size: 1
+*********** ######################## ***************
+ done handling no: 22 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:26:12.364Z/fodested-kon.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:38:07.349Z/aarhus-adr.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 23 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:38:07.349Z/aarhus-adr.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:25:25.708Z/fodested-indkomst.xls size: 1
+*********** ######################## ***************
+ done handling no: 24 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:25:25.708Z/fodested-indkomst.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:21:30.842Z/fodested-og-kontanthjaelp.xls size: 1
+*********** ######################## ***************
+ done handling no: 25 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:21:30.842Z/fodested-og-kontanthjaelp.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:57:45.024Z/bbr-bygninger.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 26 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:57:45.024Z/bbr-bygninger.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:05:53.823Z/beskriveslse-bbr-ejendomme.pdf size: 1
+*********** ######################## ***************
+ done handling no: 27 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:05:53.823Z/beskriveslse-bbr-ejendomme.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:57:32.618Z/vilkaar-for-brug-af-valgdistrikter.pdf size: 1
+*********** ######################## ***************
+ done handling no: 28 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:57:32.618Z/vilkaar-for-brug-af-valgdistrikter.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:21.696Z/valgdistrikter-ll-kml.zip size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:21.696Z/valgdistrikter-ll-kml.zip kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:48:46.659Z/ql57200v.xml size: 1
+*********** ######################## ***************
+ done handling no: 30 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:48:46.659Z/ql57200v.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:53:19.465Z/rideruter-wgs84-2013-2-5-11-13.kml size: 1
+*********** ######################## ***************
+ done handling no: 31 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:53:19.465Z/rideruter-wgs84-2013-2-5-11-13.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:47:50.070Z/kloakoplande-2013-2-8-12-33.kml size: 1
+*********** ######################## ***************
+ done handling no: 32 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:47:50.070Z/kloakoplande-2013-2-8-12-33.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-02T06:38:53.939Z/vilkar-for-brug-af-epinionsundersogelse-af-frivillighed-i-aarhus-kommune-januar-2013.pdf size: 1
+*********** ######################## ***************
+ done handling no: 33 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-02T06:38:53.939Z/vilkar-for-brug-af-epinionsundersogelse-af-frivillighed-i-aarhus-kommune-januar-2013.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:18.197Z/ejendomsfortegnelse-2011-cx480-2011.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 34 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:18.197Z/ejendomsfortegnelse-2011-cx480-2011.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-02T11:41:41.858Z/medborgerskab.txt size: 1
+*********** ######################## ***************
+ done handling no: 35 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-02T11:41:41.858Z/medborgerskab.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:22:24.316Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf size: 1
+*********** ######################## ***************
+ done handling no: 36 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:22:24.316Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:53:33.432Z/mountainbikerute-wgs84-2013-2-5-10-55.kml size: 1
+*********** ######################## ***************
+ done handling no: 37 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:53:33.432Z/mountainbikerute-wgs84-2013-2-5-10-55.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:32:37.003Z/morten-d-d-observationer.csv size: 1
+*********** ######################## ***************
+ done handling no: 38 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:32:37.003Z/morten-d-d-observationer.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:36:41.775Z/partiernes-styrke-ud-fra-geografi-1993-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 39 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:36:41.775Z/partiernes-styrke-ud-fra-geografi-1993-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:40:26.422Z/skove-store-wgs84-2013-2-5-11-18.kml size: 1
+*********** ######################## ***************
+ done handling no: 40 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:40:26.422Z/skove-store-wgs84-2013-2-5-11-18.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:26:57.748Z/indkomst-kon.xls size: 1
+*********** ######################## ***************
+ done handling no: 41 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:26:57.748Z/indkomst-kon.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:13:25.881Z/stemmeprocent-1981-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 42 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:13:25.881Z/stemmeprocent-1981-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-07T13:39:32.462Z/vilkar-for-brug-af-maling-af-medborgerskab.pdf size: 1
+*********** ######################## ***************
+ done handling no: 43 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-07T13:39:32.462Z/vilkar-for-brug-af-maling-af-medborgerskab.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:06:07.573Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 44 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:06:07.573Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-19T09:42:03.221Z/test-csv.csv size: 1
+*********** ######################## ***************
+ done handling no: 45 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-19T09:42:03.221Z/test-csv.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:56:37.069Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 46 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:56:37.069Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:04:35.747Z/mandatfordeling-og-valgforbund-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 47 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:04:35.747Z/mandatfordeling-og-valgforbund-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:53.562Z/valgdistrikter-ll-shape.zip size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:53.562Z/valgdistrikter-ll-shape.zip kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:55:07.187Z/indvindingsoplande-marts-2012-2013-2-8-10-34.kml size: 1
+*********** ######################## ***************
+ done handling no: 49 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:55:07.187Z/indvindingsoplande-marts-2012-2013-2-8-10-34.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:01:25.780Z/bbr-bygninger.xml size: 1
+*********** ######################## ***************
+ done handling no: 50 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:01:25.780Z/bbr-bygninger.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-26T10:15:08.355Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 51 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-26T10:15:08.355Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-16T08:05:48.081Z/fur-fossils.csv size: 1
+*********** ######################## ***************
+ done handling no: 52 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-16T08:05:48.081Z/fur-fossils.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:06:43.869Z/mandatfordeling-amtsradsvalg-1970-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 53 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:06:43.869Z/mandatfordeling-amtsradsvalg-1970-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-01T13:27:07.808Z/vilkar-for-brug-af-aarhus-kommunes-abne-postlister.pdf size: 1
+*********** ######################## ***************
+ done handling no: 54 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-01T13:27:07.808Z/vilkar-for-brug-af-aarhus-kommunes-abne-postlister.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:47:10.684Z/toilet-wgs84-2013-2-5-11-22.kml size: 1
+*********** ######################## ***************
+ done handling no: 55 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:47:10.684Z/toilet-wgs84-2013-2-5-11-22.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:53:49.264Z/sejrssedlerpersoner.ods size: 1
+
+ ==> NB NB File /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:53:49.264Z/sejrssedlerpersoner.ods is too large (13676099 byte) to auto control
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:18:31.336Z/ejerforhold-og-fodested.xls size: 1
+*********** ######################## ***************
+ done handling no: 57 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:18:31.336Z/ejerforhold-og-fodested.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:51:52.109Z/loberuter-2011-wgs84-2013-2-5-10-52.kml size: 1
+*********** ######################## ***************
+ done handling no: 58 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:51:52.109Z/loberuter-2011-wgs84-2013-2-5-10-52.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:38:19.450Z/beskrivelse-aarhus-adr.pdf size: 1
+*********** ######################## ***************
+ done handling no: 59 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:38:19.450Z/beskrivelse-aarhus-adr.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:07:34.925Z/opstillede-kandidater-og-kvinders-andel-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 60 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:07:34.925Z/opstillede-kandidater-og-kvinders-andel-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:58:50.690Z/antal-kandidater-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 61 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:58:50.690Z/antal-kandidater-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T14:16:07.321Z/vilkar-for-brug-af-frie-geografiske-data.pdf size: 1
+*********** ######################## ***************
+ done handling no: 62 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T14:16:07.321Z/vilkar-for-brug-af-frie-geografiske-data.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:45:53.731Z/licens-balpladser-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 63 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:45:53.731Z/licens-balpladser-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T08:24:17.881Z/vilkar-for-brug-af-danske-offentlige-data-2.pdf size: 1
+*********** ######################## ***************
+ done handling no: 64 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T08:24:17.881Z/vilkar-for-brug-af-danske-offentlige-data-2.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:23:34.814Z/fodested-og-varighed.xls size: 1
+*********** ######################## ***************
+ done handling no: 65 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:23:34.814Z/fodested-og-varighed.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:36.850Z/beskrivelse-koder-til-dechifrering.pdf size: 1
+*********** ######################## ***************
+ done handling no: 66 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:36.850Z/beskrivelse-koder-til-dechifrering.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:22:11.657Z/vilkar-for-brug-af-data.pdf size: 1
+*********** ######################## ***************
+ done handling no: 67 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:22:11.657Z/vilkar-for-brug-af-data.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:57:09.977Z/sejrssedlerpersoner-beskrivelse.txt size: 1
+*********** ######################## ***************
+ done handling no: 68 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:57:09.977Z/sejrssedlerpersoner-beskrivelse.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:22:22.670Z/morten-d-d-observationer.csv size: 1
+*********** ######################## ***************
+ done handling no: 69 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:22:22.670Z/morten-d-d-observationer.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:47:10.528Z/licens-hundeskove-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 70 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:47:10.528Z/licens-hundeskove-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T11:25:52.284Z/oda-trans.txt size: 1
+*********** ######################## ***************
+ done handling no: 71 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T11:25:52.284Z/oda-trans.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:13:47.698Z/hele-befolkningen-1-januar-2013.docx size: 1
+*********** ######################## ***************
+ done handling no: 72 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:13:47.698Z/hele-befolkningen-1-januar-2013.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:15:17.233Z/vilkar-for-brug-af-data.pdf size: 1
+*********** ######################## ***************
+ done handling no: 73 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:15:17.233Z/vilkar-for-brug-af-data.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T18:41:33.103Z/94b2valg.xls size: 1
+*********** ######################## ***************
+ done handling no: 74 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T18:41:33.103Z/94b2valg.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:13:17.984Z/frivillighed.csv size: 1
+*********** ######################## ***************
+ done handling no: 75 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:13:17.984Z/frivillighed.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:12:53.679Z/sporgeskema-frivilligt-arbejde.doc size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:12:53.679Z/sporgeskema-frivilligt-arbejde.doc kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:52:52.940Z/licens-vandindvendingsopland.pdf size: 1
+*********** ######################## ***************
+ done handling no: 77 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:52:52.940Z/licens-vandindvendingsopland.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:00:00.367Z/bbr-bygninger.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 78 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:00:00.367Z/bbr-bygninger.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:14:00.895Z/epinion-aarhus-kommune-frivilligt-arbejde-2.pdf size: 1
+*********** ######################## ***************
+ done handling no: 79 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:14:00.895Z/epinion-aarhus-kommune-frivilligt-arbejde-2.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:29:04.323Z/mc-parkering-gma.jpg size: 1
+*********** ######################## ***************
+ done handling no: 80 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:29:04.323Z/mc-parkering-gma.jpg 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T12:21:11.627Z/hundeskove-wgs84-2013-2-5-10-47.kml size: 1
+*********** ######################## ***************
+ done handling no: 81 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T12:21:11.627Z/hundeskove-wgs84-2013-2-5-10-47.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:38:22.942Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 82 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:38:22.942Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:12:03.726Z/spidskandidaternes-stemmetal-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 83 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:12:03.726Z/spidskandidaternes-stemmetal-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:57.812Z/byradets-sammensaetning-1909-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 84 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:57.812Z/byradets-sammensaetning-1909-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:48:35.629Z/licens-kloakopland-i-aarhus-kommune.pdf size: 1
+*********** ######################## ***************
+ done handling no: 85 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:48:35.629Z/licens-kloakopland-i-aarhus-kommune.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:50.694Z/ejendomsfortegnelse-2011-cx480-2011.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 86 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:50.694Z/ejendomsfortegnelse-2011-cx480-2011.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-19T08:36:46.968Z/alle-kolonihaver-i-arhus-2013-2-8-07-48.kml size: 1
+*********** ######################## ***************
+ done handling no: 87 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-19T08:36:46.968Z/alle-kolonihaver-i-arhus-2013-2-8-07-48.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:02:49.234Z/fordeling-af-stemmer-pa-partier-og-valgkredse-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 88 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:02:49.234Z/fordeling-af-stemmer-pa-partier-og-valgkredse-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:33:17.146Z/mandatfordeling-amtsradsvalg-1970-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 89 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:33:17.146Z/mandatfordeling-amtsradsvalg-1970-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:22:44.758Z/fodested-og-pension.xls size: 1
+*********** ######################## ***************
+ done handling no: 90 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:22:44.758Z/fodested-og-pension.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:29:27.124Z/parker-wgs84-2013-2-5-11-09.kml size: 1
+*********** ######################## ***************
+ done handling no: 91 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T12:29:27.124Z/parker-wgs84-2013-2-5-11-09.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-05-22T09:22:37.842Z/vilkar-for-brug-af-transaktionsdata-fra-aarhus-kommunes-biblioteker.pdf size: 1
+*********** ######################## ***************
+ done handling no: 92 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-05-22T09:22:37.842Z/vilkar-for-brug-af-transaktionsdata-fra-aarhus-kommunes-biblioteker.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:39:40.924Z/terrain-2006.dwg size: 1
+
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:39:40.924Z/terrain-2006.dwg kan ikke auto kontrollers
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:18:47.196Z/vilkaar-for-brug-af-koordinatsatte-adresser-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 94 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:18:47.196Z/vilkaar-for-brug-af-koordinatsatte-adresser-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:52:01.130Z/vilkar-for-brug-af-danske-offentlige-data-2.docx size: 1
+*********** ######################## ***************
+ done handling no: 95 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:52:01.130Z/vilkar-for-brug-af-danske-offentlige-data-2.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:49:03.642Z/licens-kolonihaver-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 96 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:49:03.642Z/licens-kolonihaver-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:42.552Z/bbr-bygninger.xml size: 1
+*********** ######################## ***************
+ done handling no: 97 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:42.552Z/bbr-bygninger.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:26.249Z/beskrivelse-cvr-produktionsenheder.pdf size: 1
+*********** ######################## ***************
+ done handling no: 98 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:26.249Z/beskrivelse-cvr-produktionsenheder.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:32:22.870Z/jy63200v-vejkode.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 99 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:32:22.870Z/jy63200v-vejkode.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:02:13.294Z/fordeling-af-gyldige-stemmer-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 100 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:02:13.294Z/fordeling-af-gyldige-stemmer-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:05:40.487Z/beskrivelse-bbr-bygninger.pdf size: 1
+*********** ######################## ***************
+ done handling no: 101 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:05:40.487Z/beskrivelse-bbr-bygninger.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:53:16.427Z/licens-vandlob-i-aarhus-kommune.pdf size: 1
+*********** ######################## ***************
+ done handling no: 102 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:53:16.427Z/licens-vandlob-i-aarhus-kommune.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:21:49.205Z/vilkaar-for-brug-af-parkering.pdf size: 1
+*********** ######################## ***************
+ done handling no: 103 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:21:49.205Z/vilkaar-for-brug-af-parkering.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:08.464Z/ql57200v.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 104 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:49:08.464Z/ql57200v.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:20:14.121Z/familieforhold-og-statsborgerskab.xls size: 1
+*********** ######################## ***************
+ done handling no: 105 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:20:14.121Z/familieforhold-og-statsborgerskab.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T10:13:19.395Z/shelters-wgs84-2013-2-5-11-16.kml size: 1
+*********** ######################## ***************
+ done handling no: 106 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T10:13:19.395Z/shelters-wgs84-2013-2-5-11-16.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:53:05.834Z/indvindingsoplande-marts-2012-2013-2-8-10-34.kml size: 1
+*********** ######################## ***************
+ done handling no: 107 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:53:05.834Z/indvindingsoplande-marts-2012-2013-2-8-10-34.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T18:32:31.777Z/94b2valg.wk3 size: 1
+*********** ######################## ***************
+ done handling no: 108 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T18:32:31.777Z/94b2valg.wk3 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-15T10:55:56.354Z/lokpl-t1-2013-2-6-14-29.kml size: 1
+*********** ######################## ***************
+ done handling no: 109 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-15T10:55:56.354Z/lokpl-t1-2013-2-6-14-29.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:04:55.033Z/bbr-ejendomme.xml size: 1
+*********** ######################## ***************
+ done handling no: 110 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:04:55.033Z/bbr-ejendomme.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:30.579Z/bbr-bygninger.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 111 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:30.579Z/bbr-bygninger.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-02T11:41:18.640Z/medborgerskab.xls size: 1
+*********** ######################## ***************
+ done handling no: 112 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-08-02T11:41:18.640Z/medborgerskab.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:43:53.702Z/savebygnings-view.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 113 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:43:53.702Z/savebygnings-view.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:52:03.869Z/licens-skove-og-parker-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 114 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:52:03.869Z/licens-skove-og-parker-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:05:57.343Z/mandatfordeling-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 115 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:05:57.343Z/mandatfordeling-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:33.704Z/mandatfordeling-1970-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 116 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:33.704Z/mandatfordeling-1970-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:02.071Z/opstillede-kandidater-personlige-stemmetal.xls size: 1
+NB NB == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:02.071Z/opstillede-kandidater-personlige-stemmetal.xls size: 0
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:20:59.500Z/familieforhold.xls size: 1
+*********** ######################## ***************
+ done handling no: 118 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:20:59.500Z/familieforhold.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-19T11:33:23.314Z/byrads-og-regionsvalget-den-15-november-2005.xls size: 1
+*********** ######################## ***************
+ done handling no: 119 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-19T11:33:23.314Z/byrads-og-regionsvalget-den-15-november-2005.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:20.469Z/invalidepladser-gma.kml size: 1
+*********** ######################## ***************
+ done handling no: 120 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:20.469Z/invalidepladser-gma.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:09:15.406Z/vilkaar-for-brug-af-bbr-ejendomme-og-bbr-bygninger.pdf size: 1
+*********** ######################## ***************
+ done handling no: 121 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:09:15.406Z/vilkaar-for-brug-af-bbr-ejendomme-og-bbr-bygninger.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:45.374Z/mc-parkering-gma.kml size: 1
+*********** ######################## ***************
+ done handling no: 122 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:45.374Z/mc-parkering-gma.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:33:08.460Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf size: 1
+*********** ######################## ***************
+ done handling no: 123 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:33:08.460Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:46:11.395Z/p-pladser-wgs84-2013-2-5-11-11.kml size: 1
+*********** ######################## ***************
+ done handling no: 124 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:46:11.395Z/p-pladser-wgs84-2013-2-5-11-11.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-16T08:24:08.493Z/bbr-ejendomme.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 125 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-16T08:24:08.493Z/bbr-ejendomme.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T11:04:58.533Z/vandreruter-wgs84-2013-2-5-11-26.kml size: 1
+*********** ######################## ***************
+ done handling no: 126 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T11:04:58.533Z/vandreruter-wgs84-2013-2-5-11-26.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:23.678Z/opstillede-kandidater-personlige-stemmetal.xls size: 1
+NB NB == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:23.678Z/opstillede-kandidater-personlige-stemmetal.xls size: 0
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:08:16.618Z/opstillede-kandidater-personlige-stemmetal.xls size: 1
+NB NB == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:08:16.618Z/opstillede-kandidater-personlige-stemmetal.xls size: 0
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:18:58.683Z/ejerforhold-og-kon.xls size: 1
+*********** ######################## ***************
+ done handling no: 129 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:18:58.683Z/ejerforhold-og-kon.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:50:59.418Z/licens-shelters-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 130 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:50:59.418Z/licens-shelters-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:11:19.925Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 131 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:11:19.925Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:50:39.316Z/fitness-i-det-fri-wgs84-2013-2-5-08-15.kml size: 1
+*********** ######################## ***************
+ done handling no: 132 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:50:39.316Z/fitness-i-det-fri-wgs84-2013-2-5-08-15.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:10:22.063Z/partiernes-tilslutning-1993-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 133 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:10:22.063Z/partiernes-tilslutning-1993-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:01.870Z/fordeling-af-stemmer-pa-partier-og-valgkredse-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 134 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:01.870Z/fordeling-af-stemmer-pa-partier-og-valgkredse-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-16T08:24:36.671Z/bbr-bygninger.csv size: 1
+*********** ######################## ***************
+ done handling no: 135 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-16T08:24:36.671Z/bbr-bygninger.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:14:07.942Z/valgdeltagelse-1981-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 136 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:14:07.942Z/valgdeltagelse-1981-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:32:37.621Z/legepladser-lb-2013-2-8-12-12.kml size: 1
+*********** ######################## ***************
+ done handling no: 137 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:32:37.621Z/legepladser-lb-2013-2-8-12-12.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:24:40.026Z/fodested-alder.xls size: 1
+*********** ######################## ***************
+ done handling no: 138 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:24:40.026Z/fodested-alder.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:06:30.630Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.docx size: 1
+*********** ######################## ***************
+ done handling no: 139 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:06:30.630Z/statsborgerskab-og-herkomst-i-arhus-kommune-1-jan-2013.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:08:53.129Z/partiernes-stemmeandele-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 140 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:08:53.129Z/partiernes-stemmeandele-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:33:43.250Z/opstillede-kandidater-og-kvinders-andel-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 141 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:33:43.250Z/opstillede-kandidater-og-kvinders-andel-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:04:05.489Z/kvindelige-kandidaters-stemmetal-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 142 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:04:05.489Z/kvindelige-kandidaters-stemmetal-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:13:31.811Z/hele-befolkningen-1-januar-2013.xls size: 1
+*********** ######################## ***************
+ done handling no: 143 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T08:13:31.811Z/hele-befolkningen-1-januar-2013.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-20T15:07:14.005Z/chrysanthemum.jpg size: 1
+*********** ######################## ***************
+ done handling no: 144 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-20T15:07:14.005Z/chrysanthemum.jpg 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:47:54.781Z/jyc0200v-cvr-produktionsenhed.xml size: 1
+*********** ######################## ***************
+ done handling no: 145 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:47:54.781Z/jyc0200v-cvr-produktionsenhed.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T13:24:22.116Z/vilkaar-for-brug-af-3d-bygninger-bymodel.pdf size: 1
+*********** ######################## ***************
+ done handling no: 146 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T13:24:22.116Z/vilkaar-for-brug-af-3d-bygninger-bymodel.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:17:59.914Z/civilstand-kon.xls size: 1
+*********** ######################## ***************
+ done handling no: 147 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:17:59.914Z/civilstand-kon.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:05:18.925Z/mandatfordeling-1970-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 148 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:05:18.925Z/mandatfordeling-1970-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:42:09.481Z/lovfro-2013-2-8-08-06.kml size: 1
+*********** ######################## ***************
+ done handling no: 149 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:42:09.481Z/lovfro-2013-2-8-08-06.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T13:01:08.826Z/abne-vandlob-2013-2-8-09-35.kml size: 1
+*********** ######################## ***************
+ done handling no: 150 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T13:01:08.826Z/abne-vandlob-2013-2-8-09-35.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:50:30.124Z/licens-naturbeskyttede-omrader-med-bilag4-arter.pdf size: 1
+*********** ######################## ***************
+ done handling no: 151 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:50:30.124Z/licens-naturbeskyttede-omrader-med-bilag4-arter.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:49:46.401Z/licens-legepladser.pdf size: 1
+*********** ######################## ***************
+ done handling no: 152 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:49:46.401Z/licens-legepladser.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:04.125Z/mandatfordeling-og-valgforbund-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 153 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:04.125Z/mandatfordeling-og-valgforbund-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:46.379Z/kvindelige-kandidaters-stemmetal-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 154 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:46.379Z/kvindelige-kandidaters-stemmetal-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:44:52.151Z/kiosker-wgs84-2013-2-5-10-49.kml size: 1
+*********** ######################## ***************
+ done handling no: 155 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:44:52.151Z/kiosker-wgs84-2013-2-5-10-49.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:13:32.216Z/frivillighed-xls.xls size: 1
+*********** ######################## ***************
+ done handling no: 156 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:13:32.216Z/frivillighed-xls.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:22.729Z/gyldige-stemmer-1981-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 157 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:31:22.729Z/gyldige-stemmer-1981-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:13:53.203Z/vilkaar-for-brug-af-bevaringsvaerdige-bygninger-i-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 158 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:13:53.203Z/vilkaar-for-brug-af-bevaringsvaerdige-bygninger-i-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:40:42.070Z/vilkar-for-brug-af-danske-offentlige-data-2.docx size: 1
+*********** ######################## ***************
+ done handling no: 159 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:40:42.070Z/vilkar-for-brug-af-danske-offentlige-data-2.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:52:29.804Z/mountainbikerute-wgs84-2013-2-5-10-55.kml size: 1
+*********** ######################## ***************
+ done handling no: 160 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T13:52:29.804Z/mountainbikerute-wgs84-2013-2-5-10-55.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:00:51.553Z/antal-stemmeberettigede-og-valgdeltagelse.xls size: 1
+*********** ######################## ***************
+ done handling no: 161 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:00:51.553Z/antal-stemmeberettigede-og-valgdeltagelse.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:12:40.992Z/stemmeafgivning-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 162 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:12:40.992Z/stemmeafgivning-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:32:47.504Z/fn-1880-1940.csv size: 1
+*********** ######################## ***************
+ done handling no: 163 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:32:47.504Z/fn-1880-1940.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:49:15.500Z/loberuter-2011-wgs84-2013-2-5-10-52.kml size: 1
+*********** ######################## ***************
+ done handling no: 164 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:49:15.500Z/loberuter-2011-wgs84-2013-2-5-10-52.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:30:34.530Z/fordeling-af-gyldige-stemmer-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 165 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:30:34.530Z/fordeling-af-gyldige-stemmer-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:41.678Z/ejendomsfortegnelse-2011-cx480-2011.rtf size: 1
+*********** ######################## ***************
+ done handling no: 166 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T07:33:41.678Z/ejendomsfortegnelse-2011-cx480-2011.rtf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T12:48:43.689Z/fn-1880-1940.csv size: 1
+*********** ######################## ***************
+ done handling no: 167 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T12:48:43.689Z/fn-1880-1940.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:37:41.740Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 168 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:37:41.740Z/personlige-stemmer-andel-af-gyldige-stemmer-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T11:46:33.005Z/mogens-otto-nielsen-arkiv.csv size: 1
+*********** ######################## ***************
+ done handling no: 169 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T11:46:33.005Z/mogens-otto-nielsen-arkiv.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:22:27.285Z/vilkar-for-brug-af-data.pdf size: 1
+*********** ######################## ***************
+ done handling no: 170 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-27T07:22:27.285Z/vilkar-for-brug-af-data.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:16:44.823Z/licens-fitness-i-det-fri-aarhus.docx size: 1
+*********** ######################## ***************
+ done handling no: 171 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:16:44.823Z/licens-fitness-i-det-fri-aarhus.docx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:50.885Z/mandatfordeling-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 172 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:32:50.885Z/mandatfordeling-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:19:27.844Z/familieforhold-og-fodested.xls size: 1
+*********** ######################## ***************
+ done handling no: 173 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:19:27.844Z/familieforhold-og-fodested.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:04:38.096Z/bbr-ejendomme.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 174 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T10:04:38.096Z/bbr-ejendomme.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:54:48.498Z/beholdning-beskrivelse.txt size: 1
+*********** ######################## ***************
+ done handling no: 175 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:54:48.498Z/beholdning-beskrivelse.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:01:31.295Z/byradets-sammensaetning-1909-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 176 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:01:31.295Z/byradets-sammensaetning-1909-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:44:05.085Z/beskrivelse-save-bygninger.pdf size: 1
+*********** ######################## ***************
+ done handling no: 177 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:44:05.085Z/beskrivelse-save-bygninger.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:09.822Z/bbr-ejendomme.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 178 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-01-30T09:58:09.822Z/bbr-ejendomme.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:40:42.867Z/sejrssedleremner-beskrivelse.txt size: 1
+*********** ######################## ***************
+ done handling no: 179 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:40:42.867Z/sejrssedleremner-beskrivelse.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:34.319Z/antal-stemmeberettigede-og-valgdeltagelse.xls size: 1
+*********** ######################## ***************
+ done handling no: 180 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:34.319Z/antal-stemmeberettigede-og-valgdeltagelse.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:43:38.516Z/savebygnings-view.xml size: 1
+*********** ######################## ***************
+ done handling no: 181 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:43:38.516Z/savebygnings-view.xml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:42:48.710Z/spidssnudet-fro-2013-2-8-07-56.kml size: 1
+*********** ######################## ***************
+ done handling no: 182 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:42:48.710Z/spidssnudet-fro-2013-2-8-07-56.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:56:13.139Z/afgivne-stemmer.xls size: 1
+*********** ######################## ***************
+ done handling no: 183 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:56:13.139Z/afgivne-stemmer.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:38:01.637Z/partiernes-tilslutning-1993-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 184 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:38:01.637Z/partiernes-tilslutning-1993-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:54.791Z/turistbus-gma.kml size: 1
+*********** ######################## ***************
+ done handling no: 185 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:54.791Z/turistbus-gma.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:36:14.945Z/partiernes-stemmeandele-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 186 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:36:14.945Z/partiernes-stemmeandele-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:48:28.869Z/jyc0200v-cvr-produktionsenhed.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 187 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:48:28.869Z/jyc0200v-cvr-produktionsenhed.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:25:02.711Z/vilkaar-for-brug-af-vejnavne-og-vejkoder.pdf size: 1
+*********** ######################## ***************
+ done handling no: 188 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-17T13:25:02.711Z/vilkaar-for-brug-af-vejnavne-og-vejkoder.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:09:34.662Z/partiernes-styrke-ud-fra-geografi-1993-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 189 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:09:34.662Z/partiernes-styrke-ud-fra-geografi-1993-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-17T14:03:31.480Z/beholding-20130617.txt size: 1
+*********** ######################## ***************
+ done handling no: 190 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-17T14:03:31.480Z/beholding-20130617.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:43:38.024Z/stor-vandsalamander-2013-2-8-08-0.kml size: 1
+*********** ######################## ***************
+ done handling no: 191 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-18T12:43:38.024Z/stor-vandsalamander-2013-2-8-08-0.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T12:19:04.481Z/fff-service-usage.pdf size: 1
+*********** ######################## ***************
+ done handling no: 192 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-08T12:19:04.481Z/fff-service-usage.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:48:27.169Z/sejrssedlerpersoner.csv size: 1
+*********** ######################## ***************
+ done handling no: 193 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:48:27.169Z/sejrssedlerpersoner.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:12.306Z/antal-kandidater-amtsradsvalg-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 194 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:29:12.306Z/antal-kandidater-amtsradsvalg-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:46:28.381Z/licens-fitness-i-det-fri-aarhus.pdf size: 1
+*********** ######################## ***************
+ done handling no: 195 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-06-05T11:46:28.381Z/licens-fitness-i-det-fri-aarhus.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:25:20.534Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf size: 1
+*********** ######################## ***************
+ done handling no: 196 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-08T12:25:20.534Z/vilkar-for-brug-af-data-fra-aarhus-kommunes-biblioteker.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:51:28.237Z/rideruter-wgs84-2013-2-5-11-13.kml size: 1
+*********** ######################## ***************
+ done handling no: 197 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:51:28.237Z/rideruter-wgs84-2013-2-5-11-13.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-10T08:03:18.718Z/vilkar-for-brug-af-finurlige-fakta-data.pdf size: 1
+*********** ######################## ***************
+ done handling no: 198 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-10T08:03:18.718Z/vilkar-for-brug-af-finurlige-fakta-data.pdf 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T10:12:17.518Z/shelters-wgs84-2013-2-5-11-16.kml size: 1
+*********** ######################## ***************
+ done handling no: 199 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-06T10:12:17.518Z/shelters-wgs84-2013-2-5-11-16.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:46:29.011Z/vandreruter-wgs84-2013-2-5-11-26-1.kml size: 1
+*********** ######################## ***************
+ done handling no: 200 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-03-08T13:46:29.011Z/vandreruter-wgs84-2013-2-5-11-26-1.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:20:25.914Z/morten-d-d-observationer.csv size: 1
+*********** ######################## ***************
+ done handling no: 201 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-19T13:20:25.914Z/morten-d-d-observationer.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:34.590Z/lastbiler-gma.kml size: 1
+*********** ######################## ***************
+ done handling no: 202 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-05T10:28:34.590Z/lastbiler-gma.kml 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:03:24.664Z/gyldige-stemmer-1981-1997.xls size: 1
+*********** ######################## ***************
+ done handling no: 203 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:03:24.664Z/gyldige-stemmer-1981-1997.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:44:42.205Z/convertvandlob.geojson size: 1
+*********** ######################## ***************
+ done handling no: 204 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:44:42.205Z/convertvandlob.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:47:31.551Z/map.geojson size: 1
+*********** ######################## ***************
+ done handling no: 205 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:47:31.551Z/map.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:48:21.879Z/uniaarhus.geojson size: 1
+*********** ######################## ***************
+ done handling no: 206 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:48:21.879Z/uniaarhus.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:50:29.510Z/convertvandlob.geojson size: 1
+*********** ######################## ***************
+ done handling no: 207 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T11:50:29.510Z/convertvandlob.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T12:21:22.869Z/uniaarhus.geojson size: 1
+*********** ######################## ***************
+ done handling no: 208 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-10-30T12:21:22.869Z/uniaarhus.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T10:29:09.051Z/building-permits-2-5.csv size: 1
+*********** ######################## ***************
+ done handling no: 209 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T10:29:09.051Z/building-permits-2-5.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T11:47:17.345Z/baalplads-wgs84-2013-2-5-10-43new.csv size: 1
+*********** ######################## ***************
+ done handling no: 210 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T11:47:17.345Z/baalplads-wgs84-2013-2-5-10-43new.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T14:24:07.137Z/baal05.csv size: 1
+*********** ######################## ***************
+ done handling no: 211 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-04T14:24:07.137Z/baal05.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-05T07:51:59.015Z/hele-befolkningen-1-januar-2013.xls size: 1
+*********** ######################## ***************
+ done handling no: 212 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-05T07:51:59.015Z/hele-befolkningen-1-januar-2013.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-05T07:54:59.677Z/30datoposter.xls size: 1
+*********** ######################## ***************
+ done handling no: 213 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-05T07:54:59.677Z/30datoposter.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-07T12:56:30.968Z/bbr-bygninger-1.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 214 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-07T12:56:30.968Z/bbr-bygninger-1.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-07T14:26:07.540Z/bbr-bygninger-uden-dato.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 215 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-07T14:26:07.540Z/bbr-bygninger-uden-dato.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-08T08:16:34.987Z/bbr-bygninger-uden-dato.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 216 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-08T08:16:34.987Z/bbr-bygninger-uden-dato.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-08T10:25:35.860Z/bbr-bygninger-uden-dato16968.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 217 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-08T10:25:35.860Z/bbr-bygninger-uden-dato16968.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T09:45:32.870Z/bbr-bygninger-1-4.csv size: 1
+*********** ######################## ***************
+ done handling no: 218 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T09:45:32.870Z/bbr-bygninger-1-4.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T09:57:01.404Z/bbr-bygninger-1-4.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 219 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T09:57:01.404Z/bbr-bygninger-1-4.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T10:04:07.859Z/bbr-bygninger-1-4.xls size: 1
+*********** ######################## ***************
+ done handling no: 220 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T10:04:07.859Z/bbr-bygninger-1-4.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T12:14:52.391Z/jy63200v-vejkode.xls size: 1
+*********** ######################## ***************
+ done handling no: 221 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T12:14:52.391Z/jy63200v-vejkode.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T12:35:48.128Z/jy63200v-vejkode-3.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 222 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-11T12:35:48.128Z/jy63200v-vejkode-3.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T12:30:36.481Z/morten-d-d-observationer.csv size: 1
+*********** ######################## ***************
+ done handling no: 223 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T12:30:36.481Z/morten-d-d-observationer.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T14:03:33.118Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 224 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T14:03:33.118Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T14:11:11.199Z/oda-behold-txt.csv size: 1
+*********** ######################## ***************
+ done handling no: 225 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-14T14:11:11.199Z/oda-behold-txt.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:11:59.764Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 226 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:11:59.764Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:28:01.301Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 227 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:28:01.301Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:31:21.426Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 228 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:31:21.426Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:33:52.088Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 229 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:33:52.088Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:47:06.367Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 230 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:47:06.367Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:55:31.215Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 231 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:55:31.215Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:57:40.600Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 232 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T08:57:40.600Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T09:45:08.128Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 233 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T09:45:08.128Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:00:18.052Z/oda-behold.txt size: 1
+*********** ######################## ***************
+ done handling no: 234 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:00:18.052Z/oda-behold.txt 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:43:29.663Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 235 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:43:29.663Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:53:48.245Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 236 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:53:48.245Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:56:44.016Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 237 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T10:56:44.016Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T11:33:21.800Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 238 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T11:33:21.800Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T11:39:27.220Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 239 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T11:39:27.220Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T13:09:31.237Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 240 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T13:09:31.237Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T13:20:39.420Z/oda-behold-txt-2.csv size: 1
+*********** ######################## ***************
+ done handling no: 241 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-15T13:20:39.420Z/oda-behold-txt-2.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-18T07:45:32.120Z/oda-behold-txt-3.csv size: 1
+*********** ######################## ***************
+ done handling no: 242 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-18T07:45:32.120Z/oda-behold-txt-3.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-18T11:47:22.157Z/oda-behold-txt-4.csv size: 1
+*********** ######################## ***************
+ done handling no: 243 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-18T11:47:22.157Z/oda-behold-txt-4.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T12:53:44.951Z/ejendomsfortegnelse-2011-cx480-2011-1.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 244 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T12:53:44.951Z/ejendomsfortegnelse-2011-cx480-2011-1.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T12:59:13.105Z/ejendomsfortegnelse-2011onesheet.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 245 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T12:59:13.105Z/ejendomsfortegnelse-2011onesheet.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:05:45.003Z/ejendomsfortegnelse-2011-cx480-2011-1.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 246 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:05:45.003Z/ejendomsfortegnelse-2011-cx480-2011-1.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:08:17.301Z/ejendomsfortegnelse-2011-cx480-2011-1.xls size: 1
+*********** ######################## ***************
+ done handling no: 247 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:08:17.301Z/ejendomsfortegnelse-2011-cx480-2011-1.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:24:16.981Z/ejendomsfortegnelse-392rows.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 248 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-11-19T13:24:16.981Z/ejendomsfortegnelse-392rows.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:15:55.795Z/images3.jpg size: 1
+*********** ######################## ***************
+ done handling no: 249 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:15:55.795Z/images3.jpg 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:19:41.825Z/1270916-1680x1050-desktopnexus-com.jpg size: 1
+*********** ######################## ***************
+ done handling no: 250 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:19:41.825Z/1270916-1680x1050-desktopnexus-com.jpg 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:20:07.256Z/1270916-1680x1050-desktopnexus-com.jpg size: 1
+*********** ######################## ***************
+ done handling no: 251 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:20:07.256Z/1270916-1680x1050-desktopnexus-com.jpg 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:22:59.207Z/audiocheck-net-hdsweep-1hz-44000hz-3dbfs-30s.wav size: 1
+*********** ######################## ***************
+ done handling no: 252 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:22:59.207Z/audiocheck-net-hdsweep-1hz-44000hz-3dbfs-30s.wav 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:35:58.391Z/clipcanvas-14348-avid-dv.mov size: 1
+*********** ######################## ***************
+ done handling no: 253 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:35:58.391Z/clipcanvas-14348-avid-dv.mov 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:36:44.775Z/h264-1080p-hp-4-1-40mbps-birds.mkv size: 1
+*********** ######################## ***************
+ done handling no: 254 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:36:44.775Z/h264-1080p-hp-4-1-40mbps-birds.mkv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:41:22.443Z/clipcanvas-14348-h264-320x180.mp4 size: 1
+*********** ######################## ***************
+ done handling no: 255 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-10T07:41:22.443Z/clipcanvas-14348-h264-320x180.mp4 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-20T09:23:35.982Z/aarhus-adr.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 256 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-12-20T09:23:35.982Z/aarhus-adr.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:49:47.110Z/valgdistrikter.json size: 1
+*********** ######################## ***************
+ done handling no: 257 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:49:47.110Z/valgdistrikter.json 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:57:07.124Z/valgdistrikter.json size: 1
+*********** ######################## ***************
+ done handling no: 258 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:57:07.124Z/valgdistrikter.json 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:59:33.874Z/valgdistrikter.geojson size: 1
+*********** ######################## ***************
+ done handling no: 259 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-06T12:59:33.874Z/valgdistrikter.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-07T08:08:40.844Z/valgdistrikter.geojson size: 1
+*********** ######################## ***************
+ done handling no: 260 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-07T08:08:40.844Z/valgdistrikter.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-13T13:40:47.774Z/sls-datasaet.csv size: 1
+*********** ######################## ***************
+ done handling no: 261 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-13T13:40:47.774Z/sls-datasaet.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-13T14:05:30.227Z/sls-datasaet-medcit.csv size: 1
+*********** ######################## ***************
+ done handling no: 262 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-13T14:05:30.227Z/sls-datasaet-medcit.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-20T13:48:52.776Z/map.geojson size: 1
+*********** ######################## ***************
+ done handling no: 263 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-20T13:48:52.776Z/map.geojson 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:27:55.227Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xlsm size: 1
+*********** ######################## ***************
+ done handling no: 264 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:27:55.227Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xlsm 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:33:52.197Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls size: 1
+*********** ######################## ***************
+ done handling no: 265 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:33:52.197Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:33:52.197Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:09:42.491Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls size: 1
+*********** ######################## ***************
+ done handling no: 266 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:09:42.491Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:09:42.491Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:13:35.935Z/mogens-otto-nielsen.xls size: 1
+*********** ######################## ***************
+ done handling no: 267 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:13:35.935Z/mogens-otto-nielsen.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:13:35.935Z/mogens-otto-nielsen.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:38:07.266Z/monielsen.xls size: 1
+*********** ######################## ***************
+ done handling no: 268 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:38:07.266Z/monielsen.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:38:07.266Z/monielsen.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:57:00.091Z/minebalpladser.csv size: 1
+*********** ######################## ***************
+ done handling no: 269 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:57:00.091Z/minebalpladser.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:21:24.498Z/mohudenlinksudenmacro1.xls size: 1
+*********** ######################## ***************
+ done handling no: 270 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:21:24.498Z/mohudenlinksudenmacro1.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:21:24.498Z/mohudenlinksudenmacro1.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:32:34.295Z/mohudenlinksudenmacro1.xls size: 1
+*********** ######################## ***************
+ done handling no: 271 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:32:34.295Z/mohudenlinksudenmacro1.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:32:34.295Z/mohudenlinksudenmacro1.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:36:19.298Z/mohudenlinksudenmacro1.csv size: 1
+*********** ######################## ***************
+ done handling no: 272 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:36:19.298Z/mohudenlinksudenmacro1.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:40:13.157Z/mohudenlinksudenmacro1.csv size: 1
+*********** ######################## ***************
+ done handling no: 273 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:40:13.157Z/mohudenlinksudenmacro1.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:29:23.184Z/linktest.csv size: 1
+*********** ######################## ***************
+ done handling no: 274 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:29:23.184Z/linktest.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:32:31.568Z/linktest.xls size: 1
+*********** ######################## ***************
+ done handling no: 275 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:32:31.568Z/linktest.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:42:20.447Z/linktest1.xls size: 1
+*********** ######################## ***************
+ done handling no: 276 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:42:20.447Z/linktest1.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:46:59.199Z/linktest1.xls size: 1
+*********** ######################## ***************
+ done handling no: 277 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T13:46:59.199Z/linktest1.xls 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:34:12.253Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 278 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:34:12.253Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:59:20.370Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls size: 1
+*********** ######################## ***************
+ done handling no: 279 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:59:20.370Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:59:20.370Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T10:39:10.189Z/mogens-slettettheis-jan-2014.xls size: 1
+*********** ######################## ***************
+ done handling no: 280 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T10:39:10.189Z/mogens-slettettheis-jan-2014.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T10:39:10.189Z/mogens-slettettheis-jan-2014.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:29:08.736Z/mogensotto.xls size: 1
+*********** ######################## ***************
+ done handling no: 281 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:29:08.736Z/mogensotto.xls 
+
+   ==> NB NB possibly cpr: 14603-9998  filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:29:08.736Z/mogensotto.xls 
+
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:40:40.393Z/mogensenmappe2.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 282 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:40:40.393Z/mogensenmappe2.xlsx 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-26T12:15:19.509Z/billeder.html size: 1
+*********** ######################## ***************
+ done handling no: 283 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-26T12:15:19.509Z/billeder.html 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-26T12:57:13.840Z/billeder.html size: 1
+*********** ######################## ***************
+ done handling no: 284 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-26T12:57:13.840Z/billeder.html 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-27T07:51:21.752Z/billeder.html size: 1
+*********** ######################## ***************
+ done handling no: 285 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-03-27T07:51:21.752Z/billeder.html 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-04-24T07:46:20.096Z/born-og-unge-enheder.csv size: 1
+*********** ######################## ***************
+ done handling no: 286 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-04-24T07:46:20.096Z/born-og-unge-enheder.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-04-30T12:13:25.986Z/worldcicy.csv size: 1
+*********** ######################## ***************
+ done handling no: 287 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-04-30T12:13:25.986Z/worldcicy.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-05-02T11:38:58.024Z/worldcicy.csv size: 1
+*********** ######################## ***************
+ done handling no: 288 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-05-02T11:38:58.024Z/worldcicy.csv 
+Checking: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-05-02T11:42:17.591Z/cvr-gjellerup.xlsx size: 1
+*********** ######################## ***************
+ done handling no: 289 file: /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-05-02T11:42:17.591Z/cvr-gjellerup.xlsx 
+
+processed file types: .json .ods .xml .pdf .mdb .docx .kml .txt .xls .csv .dwg .xlsx .zip .jpg .wk3 .rtf .geojson .wav .mov .mkv .mp4 .xlsm .html
+
+--------------------------------------------------------------------------------------------------------
+ -- End cpr check 2014-05-26 10:29:53
+
+.......  summary ........
+
+Found 9 possibly cprno. or file not able to read
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-02-27T11:19:05.821Z/grav-ver-1-5-stripped.mdb kan ikke auto kontrollers
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:51:12.621Z/buildings-2006.dwg kan ikke auto kontrollers
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:21.696Z/valgdistrikter-ll-kml.zip kan ikke auto kontrollers
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-23T10:56:53.562Z/valgdistrikter-ll-shape.zip kan ikke auto kontrollers
+ ==>  File /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-13T07:53:49.264Z/sejrssedlerpersoner.ods is too large (13676099 byte) to auto control
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-07-02T11:12:53.679Z/sporgeskema-frivilligt-arbejde.doc kan ikke auto kontrollers
+ ==> File type /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-04-05T13:39:40.924Z/terrain-2006.dwg kan ikke auto kontrollers
+ == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:02.071Z/opstillede-kandidater-personlige-stemmetal.xls size: 0 Error ==> Exception ERROR *** Token 0x2d (AreaN) found in NAME formula 
+ == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T19:34:23.678Z/opstillede-kandidater-personlige-stemmetal.xls size: 0 Error ==> Exception ERROR *** Token 0x2d (AreaN) found in NAME formula 
+ == > Can not read : /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2013-09-06T20:08:16.618Z/opstillede-kandidater-personlige-stemmetal.xls size: 0 Error ==> Exception ERROR *** Token 0x2d (AreaN) found in NAME formula 
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T07:33:52.197Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:09:42.491Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T08:13:35.935Z/mogens-otto-nielsen.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T11:38:07.266Z/monielsen.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:21:24.498Z/mohudenlinksudenmacro1.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-22T12:32:34.295Z/mohudenlinksudenmacro1.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T09:59:20.370Z/mogens-otto-nielsen-arkiv-theis-jan-2014.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T10:39:10.189Z/mogens-slettettheis-jan-2014.xls
+ ==>  14603-9998  found in filename /home/ckan/ckan2/files/pairtree_root/od/aa/obj/2014-01-23T11:29:08.736Z/mogensotto.xls
+********** end summary **************
